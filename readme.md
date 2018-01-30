@@ -1,4 +1,4 @@
-# 创建dom
+# 随机数
 ```
 const randomNum = require('zhf.random-num');
 
